@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Moon</title>
+        <link>https://example.org/</link>
+        <description>Recent content on Moon</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 13 Dec 2024 20:56:57 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>你好，世界！</title>
+        <link>https://example.org/post/hi/</link>
+        <pubDate>Fri, 13 Dec 2024 20:56:57 +0800</pubDate>
+        
+        <guid>https://example.org/post/hi/</guid>
+        <description>&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客
+&lt;/h1&gt;&lt;p&gt;大家好，欢迎来到我的博客！这是我使用 &lt;strong&gt;Hugo&lt;/strong&gt; 搭建的个人网站，搭配 &lt;strong&gt;Stack 主题&lt;/strong&gt;，非常适合展示我的文章和分享一些技术心得。通过这个博客，我希望能够记录下我的成长和学习过程，也希望能和大家一起分享一些有趣的内容。&lt;/p&gt;
+&lt;h2 id=&#34;为什么选择-hugo&#34;&gt;为什么选择 Hugo？
+&lt;/h2&gt;&lt;p&gt;Hugo 是一个非常快速且灵活的静态网站生成器，它非常适合用来搭建个人博客或者简单的静态网站。相比传统的动态网站，静态网站不依赖服务器端的数据库，所有页面都是预先生成的，这样能够大幅提升访问速度，同时减少维护成本。&lt;/p&gt;
+&lt;h3 id=&#34;我的目标&#34;&gt;我的目标
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;在博客中分享学习和生活的点滴&lt;/li&gt;
+&lt;li&gt;记录技术栈的学习路径，尤其是前端和后端的知识&lt;/li&gt;
+&lt;li&gt;分享一些有趣的项目和开源工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;希望大家在这里能收获一些有用的东西，期待与你们的交流！ :)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;感谢你阅读我的第一篇文章！更多内容敬请期待。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
