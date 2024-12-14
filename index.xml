@@ -6,7 +6,19 @@
         <description>Recent content on Moon</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 13 Dec 2024 20:56:57 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 13 Dec 2024 21:55:54 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>你好，博客</title>
+        <link>https://example.org/post/test/</link>
+        <pubDate>Fri, 13 Dec 2024 21:55:54 +0800</pubDate>
+        
+        <guid>https://example.org/post/test/</guid>
+        <description>&lt;h1 id=&#34;开始&#34;&gt;开始
+&lt;/h1&gt;&lt;p&gt;第一次学习写博客，就得到了很大的帮助以及鼓励，虽然起步阶段很难也比较坎坷，但是还是一步一步坚持以及修改得到了第一篇博客的成功。&lt;/p&gt;
+&lt;h1 id=&#34;阶段&#34;&gt;阶段
+&lt;/h1&gt;&lt;p&gt;人生的每一个阶段，经历的每一分每一秒都是一个过程，我想通过这个平台来一步一步见证自己的进步，慢慢完善自己的博客，以及自己对IT的各种能力以及经验，用来武装自己&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>你好，世界！</title>
         <link>https://example.org/post/hi/</link>
         <pubDate>Fri, 13 Dec 2024 20:56:57 +0800</pubDate>
