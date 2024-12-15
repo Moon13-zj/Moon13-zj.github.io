@@ -6,7 +6,19 @@
         <description>Recent content in Posts on Moon</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 13 Dec 2024 21:55:54 +0800</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Dec 2024 18:26:53 +0800</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>123</title>
+        <link>https://example.org/post/1/</link>
+        <pubDate>Sat, 14 Dec 2024 18:26:53 +0800</pubDate>
+        
+        <guid>https://example.org/post/1/</guid>
+        <description>&lt;h1 id=&#34;记录&#34;&gt;记录
+&lt;/h1&gt;&lt;p&gt;今天我开始了spring boot的正式学习，为实现ruo-yi-pro项目打下坚实的基础，提高自己的Java开发能力&lt;/p&gt;
+&lt;h1 id=&#34;生活&#34;&gt;生活
+&lt;/h1&gt;&lt;p&gt;下午和高中同学出去玩，打了一下午的台球，很菜但是在通信都孤立一级挫折下，进行了巨大的提升，然后晚上去吃海底捞，因为听闻可能很贵，所以在超市里面购买了许多食材，然后借助里面的锅底进行烹饪，料买多了都有点吃不了兜着走了。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>你好，博客</title>
         <link>https://example.org/post/test/</link>
         <pubDate>Fri, 13 Dec 2024 21:55:54 +0800</pubDate>
